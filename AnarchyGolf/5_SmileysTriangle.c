@@ -1,1 +1,1 @@
-void main(i,j){for(puts(":");i<34;i+=puts(""))for(j=printf(":-");j<2*i-1;++j)printf(")");}
+void main(i,j){for(i=j=printf(":")-1;i<33;i++)for(printf("\n:-");j<i*i;++j)printf(")");}
