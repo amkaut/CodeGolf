@@ -1,1 +1,1 @@
-i,j,k;main(){for(;i++<628;)printf(j>k?"\n":j<1?":":j<2?"-":j<3?")":"))"),j>k?++k,j=0:++j;}
+i,j;main(){for(;i<32||j<i*i;)printf(j<i*i?++j,")":i++?"\n:-":":\n:-\n:-");}
